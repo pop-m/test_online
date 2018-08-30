@@ -10,8 +10,7 @@
 windows + Apache24 + SQL Server2017
 
 #### 所用语言
-后端:php7 + SQL
-
+后端:php7 + SQL<Br>
 前端:html+css+javascript
 
 
